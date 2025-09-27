@@ -27,7 +27,7 @@ pip install pygame opencv-python mediapipe
 
 ---
 
-## 📦 프로젝트 구조
+## 프로젝트 구조
 
 **패키지 구조**(선택):
 
